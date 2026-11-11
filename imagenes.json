@@ -20,26 +20,6 @@
     "descarga": ""
   },
   {
-    "id": "ciudad-nocturna",
-    "titulo": "Ciudad nocturna",
-    "imagen": "https://images.unsplash.com/photo-1519608487953-e999c86e7455?w=562&h=705&fit=crop",
-    "descripcion": "Luces urbanas al caer la noche. Imagen de demostración.",
-    "categoria": "Ciudades",
-    "formato": "JPG",
-    "resolucion": "562 × 705",
-    "descarga": ""
-  },
-  {
-    "id": "bosque-verde",
-    "titulo": "Bosque verde",
-    "imagen": "https://images.unsplash.com/photo-1448375240586-882707db888b?w=562&h=705&fit=crop",
-    "descripcion": "Un bosque lleno de vida. Imagen de demostración.",
-    "categoria": "Naturaleza",
-    "formato": "JPG",
-    "resolucion": "562 × 705",
-    "descarga": ""
-  },
-  {
     "id": "cielo-estrellado",
     "titulo": "Cielo estrellado",
     "imagen": "https://images.unsplash.com/photo-1462331940025-496dfbfc7564?w=562&h=705&fit=crop",
@@ -91,5 +71,13 @@
         "url": "https://www.mediafire.com/file/kx6jfi3zvrhcxc5/DC3-DLC-TU-GOD.rar/file?action=check"
       }
     ]
+  },
+  {
+    "id": "prueba-2-mwbecw7c",
+    "titulo": "prueba 2",
+    "imagen": "imagenes/prueba2.jpg",
+    "descripcion": "prueba",
+    "categoria": "Hola",
+    "descargas": []
   }
 ]
