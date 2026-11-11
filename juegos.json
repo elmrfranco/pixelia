@@ -1,0 +1,120 @@
+[
+  {
+    "id": "red-dead-redemption",
+    "titulo": "Red Dead Redemption",
+    "anio": 2010,
+    "genero": "Acción y aventura",
+    "desarrollador": "Rockstar San Diego",
+    "editor": "Rockstar Games",
+    "jugadores": "1 jugador (campaña)",
+    "sinopsis": "John Marston, un antiguo forajido, recorre la frontera estadounidense en busca de los hombres de su pasado. Un western de mundo abierto con una historia inolvidable.",
+    "portada": "https://images.igdb.com/igdb/image/upload/t_cover_big/co2l9l.jpg",
+    "fondo": "https://images.igdb.com/igdb/image/upload/t_screenshot_huge/sc6i2r.jpg",
+    "compra": "https://www.xbox.com/es-CL/Search/Results?q=Red%20Dead%20Redemption",
+    "etiqueta": "WESTERN LEGENDARIO",
+    "enlaces": [
+      {
+        "nombre": "Buscar en Xbox",
+        "url": "https://www.xbox.com/es-CL/Search/Results?q=Red%20Dead%20Redemption"
+      },
+      {
+        "nombre": "Buscar edición física en Mercado Libre",
+        "url": "https://listado.mercadolibre.cl/red-dead-redemption-xbox-360"
+      }
+    ]
+  },
+  {
+    "id": "halo-3",
+    "titulo": "Halo 3",
+    "anio": 2007,
+    "genero": "Shooter",
+    "desarrollador": "Bungie",
+    "editor": "Microsoft Game Studios",
+    "jugadores": "Campaña y multijugador",
+    "sinopsis": "El Jefe Maestro regresa para concluir la trilogía original y enfrentarse a una amenaza que pone en riesgo a toda la humanidad.",
+    "portada": "https://images.igdb.com/igdb/image/upload/t_cover_big/co1x7d.jpg",
+    "compra": "https://www.xbox.com/es-CL/Search/Results?q=Halo%203",
+    "enlaces": [
+      {
+        "nombre": "Buscar en Xbox",
+        "url": "https://www.xbox.com/es-CL/Search/Results?q=Halo%203"
+      },
+      {
+        "nombre": "Buscar copia física en Mercado Libre",
+        "url": "https://listado.mercadolibre.cl/halo-3-xbox-360"
+      }
+    ]
+  },
+  {
+    "id": "gears-of-war-3",
+    "titulo": "Gears of War 3",
+    "anio": 2011,
+    "genero": "Shooter",
+    "desarrollador": "Epic Games",
+    "editor": "Microsoft Studios",
+    "jugadores": "Campaña cooperativa y multijugador",
+    "sinopsis": "Marcus Fenix y el escuadrón Delta afrontan una batalla decisiva por la supervivencia de la humanidad.",
+    "portada": "https://images.igdb.com/igdb/image/upload/t_cover_big/co1x7q.jpg",
+    "compra": "https://www.xbox.com/es-CL/Search/Results?q=Gears%20of%20War%203"
+  },
+  {
+    "id": "forza-horizon",
+    "titulo": "Forza Horizon",
+    "anio": 2012,
+    "genero": "Carreras",
+    "desarrollador": "Playground Games",
+    "editor": "Microsoft Studios",
+    "jugadores": "Un jugador y multijugador",
+    "sinopsis": "Conduce por las carreteras de Colorado en un festival de velocidad, música y competición al aire libre.",
+    "portada": "https://images.igdb.com/igdb/image/upload/t_cover_big/co1wyy.jpg",
+    "compra": "https://www.xbox.com/es-CL/Search/Results?q=Forza%20Horizon"
+  },
+  {
+    "id": "skyrim",
+    "titulo": "The Elder Scrolls V: Skyrim",
+    "anio": 2011,
+    "genero": "RPG",
+    "desarrollador": "Bethesda Game Studios",
+    "editor": "Bethesda Softworks",
+    "jugadores": "1 jugador",
+    "sinopsis": "Explora Skyrim como Sangre de Dragón y descubre un mundo de magia, ruinas antiguas y decisiones propias.",
+    "portada": "https://images.igdb.com/igdb/image/upload/t_cover_big/co1tnw.jpg",
+    "compra": "https://www.xbox.com/es-CL/Search/Results?q=Skyrim"
+  },
+  {
+    "id": "assassins-creed-ii",
+    "titulo": "Assassin's Creed II",
+    "anio": 2009,
+    "genero": "Acción y aventura",
+    "desarrollador": "Ubisoft Montreal",
+    "editor": "Ubisoft",
+    "jugadores": "1 jugador",
+    "sinopsis": "Acompaña a Ezio Auditore por la Italia del Renacimiento en una historia de conspiraciones, exploración y venganza.",
+    "portada": "https://images.igdb.com/igdb/image/upload/t_cover_big/co1rcf.jpg",
+    "compra": "https://www.xbox.com/es-CL/Search/Results?q=Assassins%20Creed%20II"
+  },
+  {
+    "id": "minecraft-xbox-360",
+    "titulo": "Minecraft: Xbox 360 Edition",
+    "anio": 2012,
+    "genero": "Sandbox",
+    "desarrollador": "4J Studios",
+    "editor": "Microsoft Studios",
+    "jugadores": "Un jugador y multijugador local",
+    "sinopsis": "Construye, explora y sobrevive en un mundo de bloques donde la imaginación marca los límites.",
+    "portada": "https://images.igdb.com/igdb/image/upload/t_cover_big/co49x5.jpg",
+    "compra": "https://www.xbox.com/es-CL/Search/Results?q=Minecraft"
+  },
+  {
+    "id": "gta-v",
+    "titulo": "Grand Theft Auto V",
+    "anio": 2013,
+    "genero": "Acción y aventura",
+    "desarrollador": "Rockstar North",
+    "editor": "Rockstar Games",
+    "jugadores": "Campaña y multijugador",
+    "sinopsis": "Tres protagonistas y una ciudad gigantesca se cruzan en una historia criminal ambientada en Los Santos.",
+    "portada": "https://images.igdb.com/igdb/image/upload/t_cover_big/co2lbd.jpg",
+    "compra": "https://www.xbox.com/es-CL/Search/Results?q=Grand%20Theft%20Auto%20V"
+  }
+]
