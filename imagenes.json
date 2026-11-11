@@ -19,5 +19,27 @@
         "url": "https://www.mediafire.com/file/2h03fnw5ghctqgm/AC6FOL-DLC-GOD.rar/file?action=check"
       }
     ]
+  },
+  
+  {
+    "id": "ace-combat-6-mwbeqtx5",
+    "titulo": "Ace Combat 6",
+    "imagen": "imagenes/37465743.webp",
+    "descripcion": "Formato: . GOD / XEX\n\nRegion: (Europe) (En,Fr,De,Es,It)\n\nServidor: Mediafire\n\nVoces: Ingles\n\nSubtitulos: Español\n\nPeso Del Juego Comprimido: 4.81 GB\n\nPeso Del Juego Sin Comprimir: 4.95 GB\n\nTitle-ID: 4E4D07D1\n\nMedia-ID: 36D871BC\n\nINCLUYE GUIA DE INSTALACION!",
+    "categoria": "Simulador",
+    "descargas": [
+      {
+        "nombre": "Descargar DLC",
+        "url": "https://www.mediafire.com/file/133as6ys8gkihyr/4E4D07D1.rar/file"
+      },
+      {
+        "nombre": "Descargar Juego XEX",
+        "url": "https://www.mediafire.com/file/zm171ke4fs2pt7m/AC6FOL-XEX.rar/file?action=check"
+      },
+      {
+        "nombre": "Descargar Juego GOD + DLC",
+        "url": "https://www.mediafire.com/file/2h03fnw5ghctqgm/AC6FOL-DLC-GOD.rar/file?action=check"
+      }
+    ]
   }
 ]
