@@ -1,0 +1,14 @@
+NEXUS — Gamer Premium v1
+
+1. Crea un repositorio nuevo en GitHub (por ejemplo: nexus-games).
+2. Sube index.html, juego.html, styles.css, script.js, juegos.json y fallback.svg a la raíz.
+3. Activa Settings > Pages > Deploy from a branch > main > /(root).
+4. Abre la URL que GitHub Pages te entrega.
+
+Para probar localmente, abre una terminal dentro de la carpeta y ejecuta:
+python -m http.server 8000
+Luego abre http://localhost:8000
+
+Para agregar un juego, edita juegos.json y agrega otro objeto siguiendo los ejemplos.
+Los enlaces de compra son búsquedas en Xbox, no enlaces a productos confirmados.
+Las portadas son referencias externas de IGDB y pueden fallar o variar. Se incluye fallback.svg para esos casos. Antes de publicar definitivamente, conviene usar imágenes con autorización de uso y enlaces verificados.
