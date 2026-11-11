@@ -1,0 +1,16 @@
+{
+  "redes": [
+    {
+      "nombre": "YouTube",
+      "url": ""
+    },
+    {
+      "nombre": "Facebook",
+      "url": ""
+    },
+    {
+      "nombre": "Telegram",
+      "url": ""
+    }
+  ]
+}
