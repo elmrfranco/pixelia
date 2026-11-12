@@ -65,7 +65,36 @@ function detail(){
     >
   </a>
 </div>
-<small>Enlaces externos. Reportar link caido en nuestros canales.</small></div><p class="world-note"></p></aside></div><div class="world-extras"><div class="ad-slot ad-slot-detail" aria-label="Espacio reservado para publicidad"><span>PUBLICIDAD</span><small>Espacio reservado para un anuncio</small></div><section class="community-strip"><div><span class="overline">COMUNIDAD LEGADOX</span><h2>Sigue explorando con nosotros.</h2></div><div id="social-detail" class="social-links"></div></section></div><div class="world-end"><a href="index.html#catalogo">← VOLVER A LA BIBLIOTECA</a></div></div>`;
+<small>Enlaces externos. Reportar link caido en nuestros canales.</small></div><p class="world-note"></p></aside></div><div class="world-extras"><!-- =====================================
+           PUBLICIDAD 01 - ROLLERCOIN
+           UBICACIÓN: ANTES DEL CATÁLOGO
+      ====================================== -->
+      <div
+        class="ad-slot ad-slot-wide"
+        aria-label="Publicidad de RollerCoin"
+      >
+
+        <span>PUBLICIDAD</span>
+
+        <a
+          href="https://rollercoin.com/?r=km037x1z"
+          target="_blank"
+          rel="sponsored noopener noreferrer"
+        >
+
+          <img
+            src="https://static.rollercoin.com/static/img/ref/gen2/w970h250.gif"
+            alt="Publicidad de RollerCoin"
+            width="970"
+            height="90"
+            loading="lazy"
+            style="display:block;max-width:100%;height:auto;margin:10px auto;"
+          >
+
+        </a>
+
+      </div>
+<section class="community-strip"><div><span class="overline">COMUNIDAD LEGADOX</span><h2>Sigue explorando con nosotros.</h2></div><div id="social-detail" class="social-links"></div></section></div><div class="world-end"><a href="index.html#catalogo">← VOLVER A LA BIBLIOTECA</a></div></div>`;
  fetch('config.json').then(r=>r.ok?r.json():{}).then(c=>renderSocial('#social-detail',c.redes)).catch(()=>{}); const backdrop=$('.world-backdrop');if(backdrop){const img=new Image();img.onload=()=>{backdrop.style.backgroundImage=`linear-gradient(90deg,rgba(4,4,12,.92),rgba(4,4,12,.55)),linear-gradient(0deg,#060610 1%,transparent 65%),url("${encodeURI(g.fondo||g.portada)}")`};img.src=g.fondo||g.portada}
 }
 fetch('juegos.json').then(r=>{if(!r.ok)throw Error('No se pudo abrir juegos.json');return r.json()}).then(data=>{if(!Array.isArray(data))throw Error('Catálogo no válido');games=data;initNavigation();if($('#juegos'))home();if($('#detalle'))detail()}).catch(err=>{const t=$('#juegos')||$('#detalle');if(t)t.innerHTML='<div class="empty">No se pudo cargar el catálogo: '+esc(err.message)+'</div>'});
