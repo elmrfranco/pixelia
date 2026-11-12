@@ -61,6 +61,38 @@
       "Xbox 360"
     ]
   },
+{
+  "id": "kinect-sports-season-two",
+  "titulo": "Kinect Sports: Season Two",
+  "anio": 2011,
+  "genero": "Deportes",
+  "desarrollador": "Rare y BigPark",
+  "editor": "Microsoft Game Studios",
+  "jugadores": "1 a 4 jugadores · Requiere Kinect",
+  "sinopsis": "¡La diversión deportiva regresa a Xbox 360! Convierte tu salón en un estadio y compite en seis disciplinas: tenis, golf, béisbol, esquí, dardos y fútbol americano. Gracias al sensor Kinect, tu cuerpo se convierte en el mando para disfrutar de desafíos deportivos con amigos y familiares.",
+  "portada": "assets/kinect-sports-season-two/portada.webp",
+  "fondo": "assets/kinect-sports-season-two/fondo.webp",
+  "compra": "https://listado.mercadolibre.cl/kinect-sports-season-two-xbox-360",
+  "enlaces": [
+    {
+      "nombre": "Buscar en Mercado Libre Chile",
+      "url": "https://listado.mercadolibre.cl/kinect-sports-season-two-xbox-360"
+    },
+    {
+      "nombre": "Buscar en Xbox",
+      "url": "https://www.xbox.com/es-CL/Search/Results?q=Kinect%20Sports%20Season%20Two"
+    }
+  ],
+  "tema": {
+    "principal": "#32D7F0",
+    "secundario": "#2376CB",
+    "brillo": "#A2F5FF"
+  },
+  "plataformas": [
+    "Xbox 360"
+  ]
+},
+
   {
     "id": "gears-of-war-3",
     "titulo": "Gears of War 3",
