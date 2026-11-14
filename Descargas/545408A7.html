@@ -1,1 +1,371 @@
 
+<!doctype html>
+<html lang="es">
+
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+
+  <title>Descargas | LEGADOX</title>
+
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+
+  <link
+    href="https://fonts.googleapis.com/css2?family=Outfit:wght@400;500;600;700;800&display=swap"
+    rel="stylesheet"
+  >
+
+  <style>
+    :root {
+      color-scheme: dark;
+      --bg: #070811;
+      --panel: #131624;
+      --border: #30364d;
+      --text: #f3f1ff;
+      --muted: #a4a7bc;
+      --purple: #9866ff;
+      --cyan: #44d7f5;
+    }
+
+    * {
+      box-sizing: border-box;
+    }
+
+    body {
+      margin: 0;
+      min-height: 100vh;
+      background:
+        radial-gradient(
+          ellipse at 15% 10%,
+          #42145c55,
+          transparent 42%
+        ),
+        radial-gradient(
+          ellipse at 90% 70%,
+          #10465a44,
+          transparent 40%
+        ),
+        var(--bg);
+      color: var(--text);
+      font-family: Outfit, sans-serif;
+    }
+
+    a {
+      color: inherit;
+      text-decoration: none;
+    }
+
+    .topbar {
+      display: flex;
+      justify-content: space-between;
+      align-items: center;
+      gap: 16px;
+      padding: 22px max(5%, 20px);
+      border-bottom: 1px solid var(--border);
+      background: #090b15c9;
+    }
+
+    .brand {
+      font-size: 25px;
+      font-weight: 800;
+      letter-spacing: -1px;
+    }
+
+    .brand span {
+      color: var(--purple);
+    }
+
+    .back {
+      padding: 10px 17px;
+      border: 1px solid var(--border);
+      border-radius: 10px;
+      background: #191c2d;
+      font-size: 14px;
+    }
+
+    .back:hover {
+      border-color: var(--purple);
+    }
+
+    .container {
+      max-width: 1150px;
+      margin: auto;
+      padding: 30px 20px 60px;
+    }
+
+    .ad {
+      display: grid;
+      place-items: center;
+      min-height: 105px;
+      padding: 15px;
+      border: 1px dashed #41435d;
+      border-radius: 14px;
+      background: #121523;
+      color: #898da6;
+      text-align: center;
+      font-size: 11px;
+      letter-spacing: 2px;
+    }
+
+    .layout {
+      display: grid;
+      grid-template-columns: minmax(0, 1fr) 250px;
+      gap: 24px;
+      margin-top: 28px;
+    }
+
+    .content {
+      min-width: 0;
+      padding: 35px 28px;
+      border: 1px solid var(--border);
+      border-radius: 20px;
+      background: #101321d9;
+      box-shadow: 0 0 45px #7a39ff0d;
+    }
+
+    .eyebrow {
+      color: var(--purple);
+      font-size: 12px;
+      font-weight: 700;
+      letter-spacing: 3px;
+    }
+
+    h1 {
+      margin: 12px 0;
+      font-size: clamp(29px, 5vw, 43px);
+      line-height: 1.15;
+    }
+
+    .intro {
+      margin-bottom: 32px;
+      color: var(--muted);
+      font-size: 15px;
+    }
+
+    .downloads {
+      display: grid;
+      gap: 14px;
+    }
+
+    .download {
+      display: flex;
+      align-items: center;
+      gap: 18px;
+      padding: 20px;
+      border: 1px solid #4e3677;
+      border-radius: 14px;
+      background:
+        linear-gradient(
+          110deg,
+          #39205e,
+          #1b1c36 75%
+        );
+      transition: transform .2s, border-color .2s;
+    }
+
+    .download:hover {
+      transform: translateY(-3px);
+      border-color: var(--cyan);
+    }
+
+    .download-icon {
+      display: grid;
+      place-items: center;
+      width: 48px;
+      height: 48px;
+      flex-shrink: 0;
+      border-radius: 12px;
+      background: #a16aff2a;
+      color: #d2b6ff;
+      font-size: 24px;
+    }
+
+    .download-info {
+      flex: 1;
+    }
+
+    .download-info strong {
+      display: block;
+      font-size: 17px;
+    }
+
+    .download-info small {
+      display: block;
+      margin-top: 4px;
+      color: #b6b5ca;
+    }
+
+    .download-arrow {
+      color: var(--cyan);
+      font-size: 23px;
+    }
+
+    .side-ad {
+      min-height: 300px;
+      align-self: start;
+    }
+
+    .bottom-ad {
+      margin-top: 28px;
+    }
+
+    footer {
+      padding: 24px;
+      border-top: 1px solid var(--border);
+      color: #8d91a8;
+      text-align: center;
+      font-size: 12px;
+    }
+
+    @media (max-width: 800px) {
+      .layout {
+        grid-template-columns: 1fr;
+      }
+
+      .content {
+        padding: 28px 18px;
+      }
+
+      .side-ad {
+        min-height: 110px;
+      }
+    }
+  </style>
+</head>
+
+<body>
+
+  <!-- CABECERA -->
+  <header class="topbar">
+
+    <a class="brand" href="index.html">
+      ◈ LEGADOX<span>.</span>
+    </a>
+
+    <a class="back" href="javascript:history.back()">
+      ← Volver atrás
+    </a>
+
+  </header>
+
+
+  <main class="container">
+
+    <!-- PUBLICIDAD SUPERIOR -->
+    <div class="ad">
+      PUBLICIDAD · BANNER HORIZONTAL
+    </div>
+
+
+    <div class="layout">
+
+      <!-- CONTENIDO PRINCIPAL -->
+      <section class="content">
+
+        <span class="eyebrow">
+          ◈ CENTRO DE DESCARGAS
+        </span>
+
+        <h1>Selecciona tu descarga.</h1>
+
+        <p class="intro">
+          Elige uno de los tres contenidos disponibles.
+        </p>
+
+
+        <!-- BOTONES DE DESCARGA -->
+        <div class="downloads">
+
+          <!-- DESCARGA 01 -->
+          <a
+            class="download"
+            href="#"
+            data-download="1"
+          >
+            <span class="download-icon">↓</span>
+
+            <span class="download-info">
+              <strong>Contenido 01</strong>
+              <small>Descarga disponible</small>
+            </span>
+
+            <span class="download-arrow">↗</span>
+          </a>
+
+
+          <!-- DESCARGA 02 -->
+          <a
+            class="download"
+            href="#"
+            data-download="2"
+          >
+            <span class="download-icon">↓</span>
+
+            <span class="download-info">
+              <strong>Contenido 02</strong>
+              <small>Descarga disponible</small>
+            </span>
+
+            <span class="download-arrow">↗</span>
+          </a>
+
+
+          <!-- DESCARGA 03 -->
+          <a
+            class="download"
+            href="#"
+            data-download="3"
+          >
+            <span class="download-icon">↓</span>
+
+            <span class="download-info">
+              <strong>Contenido 03</strong>
+              <small>Descarga disponible</small>
+            </span>
+
+            <span class="download-arrow">↗</span>
+          </a>
+
+        </div>
+
+      </section>
+
+
+      <!-- PUBLICIDAD LATERAL -->
+      <aside class="ad side-ad">
+        PUBLICIDAD · 250 × 250
+      </aside>
+
+    </div>
+
+
+    <!-- PUBLICIDAD INFERIOR -->
+    <div class="ad bottom-ad">
+      PUBLICIDAD · BANNER HORIZONTAL
+    </div>
+
+  </main>
+
+
+  <footer>
+    ◈ LEGADOX / EL LEGADO CONTINÚA
+  </footer>
+
+
+  <script>
+    // Evitar enlaces de descarga sin configurar.
+    document.querySelectorAll("[data-download]").forEach(
+      enlace => {
+        if (enlace.getAttribute("href") === "#") {
+          enlace.addEventListener("click", evento => {
+            evento.preventDefault();
+            alert("Esta descarga todavía no está configurada.");
+          });
+        }
+      }
+    );
+  </script>
+
+</body>
+</html>
+
