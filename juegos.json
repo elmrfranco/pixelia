@@ -92,5 +92,38 @@
   "plataformas": [
     "Xbox 360"
   ]
+},
+  
+{
+  "id": "grand-theft-auto-v",
+  "titulo": "Grand Theft Auto V",
+  "anio": 2013,
+  "genero": "Acción",
+  "desarrollador": "Rockstar North",
+  "editor": "Rockstar Games",
+  "jugadores": "1 jugador · GTA Online (servicio cerrado en Xbox 360)",
+  "sinopsis": "Bienvenido a Los Santos, una ciudad donde el dinero, el poder y el crimen dominan las calles. Vive las historias entrelazadas de Michael De Santa, un antiguo ladrón de bancos; Franklin Clinton, un joven que busca escapar de su vida criminal; y Trevor Philips, un impredecible delincuente. Explora un enorme mundo abierto inspirado en el sur de California, participa en espectaculares atracos, conduce todo tipo de vehículos y descubre una ciudad llena de secretos, actividades y peligros. Tres protagonistas, una ciudad y una historia inolvidable.",
+  "portada": "assets/grand-theft-auto-v/portada.webp",
+  "fondo": "assets/grand-theft-auto-v/fondo.webp",
+  "compra": "https://listado.mercadolibre.cl/gta-5-xbox-360",
+  "enlaces": [
+    {
+      "nombre": "Buscar copia física en Mercado Libre",
+      "url": "https://listado.mercadolibre.cl/gta-5-xbox-360"
+    },
+    {
+      "nombre": "Buscar en Xbox",
+      "url": "https://www.xbox.com/es-CL/Search/Results?q=Grand%20Theft%20Auto%20V"
+    }
+  ],
+  "tema": {
+    "principal": "#65C87A",
+    "secundario": "#184B38",
+    "brillo": "#C9F3A5"
+  },
+  "plataformas": [
+    "Xbox 360"
+  ]
 }
+
 ]
