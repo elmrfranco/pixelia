@@ -124,6 +124,39 @@
   "plataformas": [
     "Xbox 360"
   ]
+},
+
+{
+  "id": "minecraft-xbox-360",
+  "titulo": "Minecraft: Xbox 360 Edition",
+  "anio": 2012,
+  "genero": "Sandbox",
+  "desarrollador": "4J Studios y Mojang",
+  "editor": "Microsoft Studios",
+  "jugadores": "1 a 4 jugadores en pantalla dividida · Hasta 8 en línea",
+  "sinopsis": "¡Construye, explora y sobrevive en un mundo hecho completamente de bloques! Minecraft: Xbox 360 Edition lleva la experiencia clásica de Minecraft a la consola de Microsoft. Recolecta recursos, fabrica herramientas, construye casas y castillos, explora cuevas y enfréntate a criaturas como zombis, esqueletos y creepers. Disfruta de los modos Supervivencia y Creativo, juega con hasta cuatro personas en pantalla dividida y descubre una aventura donde el único límite es tu imaginación. Una edición clásica con una identidad propia y una experiencia inolvidable.",
+  "portada": "assets/minecraft-xbox-360/portada.webp",
+  "fondo": "assets/minecraft-xbox-360/fondo.webp",
+  "compra": "https://listado.mercadolibre.cl/minecraft-xbox-360",
+  "enlaces": [
+    {
+      "nombre": "Buscar copia física en Mercado Libre",
+      "url": "https://listado.mercadolibre.cl/minecraft-xbox-360"
+    },
+    {
+      "nombre": "Buscar en Xbox",
+      "url": "https://www.xbox.com/es-CL/Search/Results?q=Minecraft%20Xbox%20360"
+    }
+  ],
+  "tema": {
+    "principal": "#69C34A",
+    "secundario": "#345E2B",
+    "brillo": "#B5F28D"
+  },
+  "plataformas": [
+    "Xbox 360"
+  ]
 }
+
 
 ]
