@@ -41,15 +41,14 @@
   "sinopsis": "¡La diversión deportiva regresa a Xbox 360! Convierte tu salón en un estadio y compite en seis disciplinas: tenis, golf, béisbol, esquí, dardos y fútbol americano. Gracias al sensor Kinect, tu cuerpo se convierte en el mando para disfrutar de desafíos deportivos con amigos y familiares.",
   "portada": "assets/kinect-sports-season-two/portada.svg",
   "fondo": "assets/kinect-sports-season-two/fondo.svg",
-  "compra": "https://listado.mercadolibre.cl/kinect-sports-season-two-xbox-360",
   "enlaces": [
     {
-      "nombre": "Buscar en Mercado Libre Chile",
+      "nombre": "Juego + GOD + DLC + TU",
       "url": "https://listado.mercadolibre.cl/kinect-sports-season-two-xbox-360"
     },
     {
-      "nombre": "Buscar en Xbox",
-      "url": "https://www.xbox.com/es-CL/Search/Results?q=Kinect%20Sports%20Season%20Two"
+      "nombre": "Solo DLC",
+      "url": "#"
     }
   ],
   "tema": {
@@ -72,7 +71,6 @@
   "sinopsis": "¡La magia de Disneyland llega a Xbox 360! Explora una recreación del famoso parque de atracciones, conoce a personajes como Mickey Mouse, Minnie, Donald y Goofy, completa misiones, descubre secretos y participa en aventuras inspiradas en las atracciones de Disney. Utiliza los movimientos de tu cuerpo y comandos de voz gracias al sensor Kinect para disfrutar de una experiencia mágica en solitario o acompañado.",
   "portada": "assets/kinect-disneyland-adventures/portada.webp",
   "fondo": "assets/kinect-disneyland-adventures/fondo.webp",
-  "compra": "https://listado.mercadolibre.cl/kinect-disneyland-adventures-xbox-360",
   "enlaces": [
     {
       "nombre": "Buscar en Mercado Libre Chile",
@@ -104,15 +102,14 @@
   "sinopsis": "Bienvenido a Los Santos, una ciudad donde el dinero, el poder y el crimen dominan las calles. Vive las historias entrelazadas de Michael De Santa, un antiguo ladrón de bancos; Franklin Clinton, un joven que busca escapar de su vida criminal; y Trevor Philips, un impredecible delincuente. Explora un enorme mundo abierto inspirado en el sur de California, participa en espectaculares atracos, conduce todo tipo de vehículos y descubre una ciudad llena de secretos, actividades y peligros. Tres protagonistas, una ciudad y una historia inolvidable.",
   "portada": "assets/grand-theft-auto-v/portada.webp",
   "fondo": "assets/grand-theft-auto-v/fondo.webp",
-  "compra": "https://listado.mercadolibre.cl/gta-5-xbox-360",
   "enlaces": [
     {
-      "nombre": "Buscar copia física en Mercado Libre",
-      "url": "https://listado.mercadolibre.cl/gta-5-xbox-360"
+      "nombre": "Juego + GOD + DLC + TU",
+      "url": "https://elmrfranco.github.io/pixelia/Descargas/545408A7.html"
     },
     {
-      "nombre": "Buscar en Xbox",
-      "url": "https://www.xbox.com/es-CL/Search/Results?q=Grand%20Theft%20Auto%20V"
+      "nombre": "Solo DLC",
+      "url": "#"
     }
   ],
   "tema": {
@@ -136,7 +133,6 @@
   "sinopsis": "¡Construye, explora y sobrevive en un mundo hecho completamente de bloques! Minecraft: Xbox 360 Edition lleva la experiencia clásica de Minecraft a la consola de Microsoft. Recolecta recursos, fabrica herramientas, construye casas y castillos, explora cuevas y enfréntate a criaturas como zombis, esqueletos y creepers. Disfruta de los modos Supervivencia y Creativo, juega con hasta cuatro personas en pantalla dividida y descubre una aventura donde el único límite es tu imaginación. Una edición clásica con una identidad propia y una experiencia inolvidable.",
   "portada": "assets/minecraft-xbox-360/portada.webp",
   "fondo": "assets/minecraft-xbox-360/fondo.webp",
-  "compra": "https://www.mediafire.com/file/d5wofrvp2lhict8/584111F7.rar/file",
   "enlaces": [
     {
       "nombre": "Juegos + XBLA + DLC + TU",
@@ -152,6 +148,4 @@
     "Xbox 360"
   ]
 }
-
-
 ]
